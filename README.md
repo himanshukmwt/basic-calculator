@@ -18,11 +18,14 @@ Supports basic arithmetic operations with proper operator precedence.
 
 ## How to Use
 
-1. Clone the repository:
+ 1. Clone the repository:
+ 2. Open index.html in your browser.
+ 3. Click the buttons to perform calculations.
 
 ```bash
 git clone https://github.com/himanshukmwt/basic-calculator.git
 
-2. Open index.html in your browser.
 
-3. Click the buttons to perform calculations.
+
+
+

@@ -22,8 +22,7 @@ Supports basic arithmetic operations with proper operator precedence.
  2. Open index.html in your browser.
  3. Click the buttons to perform calculations.
 
-```bash
-git clone https://github.com/himanshukmwt/basic-calculator.git
+
 
 
 
